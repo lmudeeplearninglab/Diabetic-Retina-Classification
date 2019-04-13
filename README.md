@@ -1,4 +1,4 @@
-# Diabed-Retina-DL
+# Diabetic-Retina-Classification 
 
 test4_batchnorm.py is the running file.
 test5_batchnorm.py and Retrain_test5_batchnorm.py are advanced version of test4_batchnorm.py, which involves saving model and retrain 
